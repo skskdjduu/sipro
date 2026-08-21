@@ -1,0 +1,50 @@
+[
+  {
+    "content": "Pulihkan lingkungan dari repo + baseline hijau (poc_48 PASS, login diperbaiki)",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 1/P0: Perbaiki SSOT — daftarkan fase 49 ke reference.py::_PHASES + smoke /api/reference",
+    "status": "in_progress"
+  },
+  {
+    "content": "Fase 1: Bangun withholding_engine.py (49F penuh) + potong PPh saat bayar tagihan AP",
+    "status": "pending"
+  },
+  {
+    "content": "Fase 1: Sambungkan endpoint 49A-49G (gl_router, gl_reports_router, tax_router, ap) + RBAC aksi baru",
+    "status": "pending"
+  },
+  {
+    "content": "Fase 1: poc/poc_49.py — 7 user story POC sampai PASS + cleanup tanpa dokumen menggantung",
+    "status": "pending"
+  },
+  {
+    "content": "Fase 2: Frontend tab Penutupan Buku (/accounting) + Paket Owner & Arus Kas per Proyek (/accounting-reports)",
+    "status": "pending"
+  },
+  {
+    "content": "Fase 2: Frontend tab e-Faktur Ekspor + Bukti Potong + Rekap SPT PPN (/tax)",
+    "status": "pending"
+  },
+  {
+    "content": "Fase 3: seed_phase49.py idempoten (NPWP contoh, faktur hold, tagihan potong PPh)",
+    "status": "pending"
+  },
+  {
+    "content": "Fase 3: Gate baru verify_closing.py + verify_tax_compliance.py terdaftar di run_all_gates.sh (38 gates)",
+    "status": "pending"
+  },
+  {
+    "content": "Fase 3: scripts/mutasi_49.py — semua mutasi TERTANGKAP",
+    "status": "pending"
+  },
+  {
+    "content": "Fase 3: Dokumentasi (docs spec, CODEBASE_MAP, test_result, plan.md, test_credentials)",
+    "status": "pending"
+  },
+  {
+    "content": "Fase 3: E2E multi-peran via testing_agent_v3 + perbaikan semua temuan",
+    "status": "pending"
+  }
+]
